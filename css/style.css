@@ -1,7 +1,7 @@
 /* 共通設定 */
 body {
   background: #F4F9FF;
-
+  background: #f4f9ff;
 }
 
 .container {
@@ -132,7 +132,7 @@ p {
 }
 
 .detail__wrap dt {
-  float: left;
+  float: left; /* float使わないほうがいいかな... */
   margin-bottom: 7px;
 }
 
